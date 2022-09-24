@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 In this proflile i will be uploading the projects of the course I´m currently doing.
 
 
 
