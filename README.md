@@ -1,5 +1,4 @@
-### Hi there 👋 In this proflile i will be uploading the projects of the grade I´m currently doing.
-
+### Hi there 👋 In this proflile i will be uploading the projects of the grade I´m taking.
 
 
 - 🌱 My studies: Chef & Web development
