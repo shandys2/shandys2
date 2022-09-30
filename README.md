@@ -1,6 +1,5 @@
 
 
-<!---
 ### Hi there 👋 In this proflile i will be uploading the projects of the grade I´m taking.
 
 
@@ -10,7 +9,6 @@
 
 
 ###- 📫 How to reach me: damura1189@gmail.com
---!>
 
 
 
