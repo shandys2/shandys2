@@ -7,8 +7,7 @@
 -- 🌱 I’m currently learning Cross-platform development
 ###-- 🔭 I’m currently working on SERIKAT (IT services consultant)
 
-
-###- 📫 How to reach me: damura1189@gmail.com
-
+<!--
+###- 📫 How to reach me:  --!>
 
 
